@@ -1,10 +1,10 @@
-package com.labball1.game;
+package com.gameball1.game;
 
 import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import com.labball1.game.Game;
+import com.gameball1.game.Game;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override
