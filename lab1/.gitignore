@@ -14,8 +14,8 @@
 .gradle/
 .idea/
 ##bin/
-##build/
+build/
 ##out/
 ##gen/
-##local.properties
+local.properties
 ##!gradle/
