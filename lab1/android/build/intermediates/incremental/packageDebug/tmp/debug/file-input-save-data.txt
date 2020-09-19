@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Sep 19 18:02:23 MSK 2020
+#Sat Sep 19 18:59:02 MSK 2020
 8.base=D\:\\Git\\Mobilelapps\\lab1\\android\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 2.base=D\:\\Git\\Mobilelapps\\lab1\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 0.path=lib/armeabi/libgdx.so
