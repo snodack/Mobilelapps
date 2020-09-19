@@ -13,8 +13,9 @@
 .settings/
 .gradle/
 .idea/
-bin/
-out/
-gen/
-local.properties
-!gradle/
+##bin/
+##build/
+##out/
+##gen/
+##local.properties
+##!gradle/
