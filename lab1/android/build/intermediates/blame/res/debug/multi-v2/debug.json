@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Git\\Mobilelapps\\lab1\\android\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "outputFile": "C:\\Users\\Creckeryop\\Documents\\Github\\Mobilelapps\\lab1\\android\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\Git\\Mobilelapps\\lab1\\android\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Creckeryop\\Documents\\Github\\Mobilelapps\\lab1\\android\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "17",
+                        "startOffsets": "19",
                         "endLines": "9",
                         "endColumns": "12",
-                        "endOffsets": "475"
+                        "endOffsets": "484"
                     },
                     "to": {
                         "startLines": "4",
@@ -23,8 +23,15 @@
                     }
                 },
                 {
-                    "source": "D:\\Git\\Mobilelapps\\lab1\\android\\res\\values\\color.xml",
+                    "source": "C:\\Users\\Creckeryop\\Documents\\Github\\Mobilelapps\\lab1\\android\\res\\values\\color.xml",
                     "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "55",
+                        "endOffsets": "108"
+                    },
+                    "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
@@ -33,13 +40,13 @@
                     }
                 },
                 {
-                    "source": "D:\\Git\\Mobilelapps\\lab1\\android\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\Creckeryop\\Documents\\Github\\Mobilelapps\\lab1\\android\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "56",
+                        "startOffsets": "59",
                         "endColumns": "46",
-                        "endOffsets": "98"
+                        "endOffsets": "101"
                     },
                     "to": {
                         "startLines": "3",

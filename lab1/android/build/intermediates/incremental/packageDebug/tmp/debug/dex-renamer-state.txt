@@ -1,4 +1,4 @@
-#Sun Sep 20 17:00:01 MSK 2020
-base.0=D\:\\Git\\Mobilelapps\\lab1\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
-renamed.0=classes.dex
+#Sun Sep 20 20:47:07 YEKT 2020
+base.0=C\:\\Users\\Creckeryop\\Documents\\Github\\Mobilelapps\\lab1\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
+renamed.0=classes.dex
